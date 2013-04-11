@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "cheerio-select" : "*",
-    "htmlparser2" : "3.x",
+    "htmlparser2" : "git://github.com/fb55/htmlparser2.git#master",
     "underscore" : "~1.4",
     "entities" : "0.x"
   },
